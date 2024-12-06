@@ -1,0 +1,3 @@
+﻿  Game.cpp
+C:\Users\ShakeThatShadow\source\repos\UntitledGameGame\UntitledGameGame\Game.cpp(56,14): warning C4553: '==': result of expression not used; did you intend '='?
+  UntitledGameGame.vcxproj -> C:\Users\ShakeThatShadow\source\repos\UntitledGameGame\Debug\UntitledGameGame.exe

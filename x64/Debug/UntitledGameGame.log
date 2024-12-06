@@ -1,0 +1,31 @@
+﻿  Game.cpp
+C:\Users\ShakeThatShadow\source\repos\UntitledGameGame\UntitledGameGame\Src\ECS\TileComponent.h(25,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Src/Game.cpp')
+  
+C:\Users\ShakeThatShadow\source\repos\UntitledGameGame\UntitledGameGame\Src\ECS\TileComponent.h(26,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Src/Game.cpp')
+  
+C:\Users\ShakeThatShadow\source\repos\UntitledGameGame\UntitledGameGame\Src\ECS\TileComponent.h(38,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Src/Game.cpp')
+  
+C:\Users\ShakeThatShadow\source\repos\UntitledGameGame\UntitledGameGame\Src\ECS\TileComponent.h(39,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Src/Game.cpp')
+  
+C:\Users\ShakeThatShadow\source\repos\UntitledGameGame\UntitledGameGame\Src\Game.cpp(100,66): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ShakeThatShadow\source\repos\UntitledGameGame\UntitledGameGame\Src\Game.cpp(101,66): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ShakeThatShadow\source\repos\UntitledGameGame\UntitledGameGame\Src\ECS\ECS.h(98,33): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\ShakeThatShadow\source\repos\UntitledGameGame\UntitledGameGame\Src\ECS\ECS.h(98,33): warning C4244:         with
+C:\Users\ShakeThatShadow\source\repos\UntitledGameGame\UntitledGameGame\Src\ECS\ECS.h(98,33): warning C4244:         [
+C:\Users\ShakeThatShadow\source\repos\UntitledGameGame\UntitledGameGame\Src\ECS\ECS.h(98,33): warning C4244:             _Ty=int
+C:\Users\ShakeThatShadow\source\repos\UntitledGameGame\UntitledGameGame\Src\ECS\ECS.h(98,33): warning C4244:         ]
+  (compiling source file 'Src/Game.cpp')
+      C:\Users\ShakeThatShadow\source\repos\UntitledGameGame\UntitledGameGame\Src\ECS\ECS.h(98,33):
+      the template instantiation context (the oldest one first) is
+          C:\Users\ShakeThatShadow\source\repos\UntitledGameGame\UntitledGameGame\Src\Game.cpp(61,9):
+          see reference to function template instantiation 'T &Entity::addComponent<TransformComponent,int,int,int,int,int>(int &&,int &&,int &&,int &&,int &&)' being compiled
+          with
+          [
+              T=TransformComponent
+          ]
+  
+  UntitledGameGame.vcxproj -> C:\Users\ShakeThatShadow\source\repos\UntitledGameGame\x64\Debug\UntitledGameGame.exe
